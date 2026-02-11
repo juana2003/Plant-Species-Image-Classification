@@ -1,4 +1,5 @@
 A. Project Overview
+
 Brief Description of the Project:
 
 This project involves developing an image classification model that can recognize and differentiate 20 related plant species using Google Teachable Machine. A dataset containing
