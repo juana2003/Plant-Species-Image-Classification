@@ -9,3 +9,7 @@ Purpose of the Image Classification Model:
 
 The purpose of this image classification model is to automatically identify plant species from images using machine learning techniques. It aims to demonstrate how computer vision
 can be applied to classify plants accurately and how dataset quality, training parameters, and evaluation methods affect model performance.
+
+B. Plant Species Section
+
+
