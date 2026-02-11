@@ -11,6 +11,6 @@ The purpose of this image classification model is to automatically identify plan
 can be applied to classify plants accurately and how dataset quality, training parameters, and evaluation methods affect model performance.
 
 B. Plant Species Section
-![Alt Text](image(116).jpg)
+![Alt Text](https://github.com/juana2003/Plant-Species-Image-Classification/blob/0cd66d0da878d2658d0cfe12634e0f454021fdff/cactus.jpg)
 
 
