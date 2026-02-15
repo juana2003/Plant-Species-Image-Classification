@@ -43,7 +43,7 @@ TEST 2
 
 ![TEST 2](https://github.com/juana2003/Plant-Species-Image-Classification/blob/0c60bfd3d8a2af958fd00ad201c199ba980c0e6f/Preview%20Test%202.jpg)
 
-![TEST 3] (https://github.com/juana2003/Plant-Species-Image-Classification/blob/df17e45506e9a6d85c948c8ee0f86c5dd4c5a6a2/Preview%20Test%203.jpg)
+![TEST 3](https://github.com/juana2003/Plant-Species-Image-Classification/blob/df17e45506e9a6d85c948c8ee0f86c5dd4c5a6a2/Preview%20Test%203.jpg)
 
 ![TEST 4](https://github.com/juana2003/Plant-Species-Image-Classification/blob/df17e45506e9a6d85c948c8ee0f86c5dd4c5a6a2/Preview%20Test%204.jpg)
 
