@@ -35,7 +35,12 @@ D. Model Evaluation
 
 E. Model Testing
 
-![Alt Text]()
+TEST 1
+
+![Alt Text](https://github.com/juana2003/Plant-Species-Image-Classification/blob/3747df3714dc433c80616957b918ca3be18091ab/Preview%20Test%201.jpg)
+
+TEST 2
+
 ![Alt Text]()
 
 
