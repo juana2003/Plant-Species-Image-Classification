@@ -25,3 +25,8 @@ Cacti are a family of succulent plants adapted to survive in dry and arid enviro
 loss and protect against herbivores. Cacti can vary widely in shape, size, and flower color, and they are commonly used for ornamental purposes, landscaping, and sometimes food or medicine.
 
 C. Model Training Details
+
+Alt Text](https://github.com/juana2003/Plant-Species-Image-Classification/blob/dc8648829c45f95ad54643c8f2a3a2453a4b0d08/Training%20Model%20.jpg)
+
+
+
