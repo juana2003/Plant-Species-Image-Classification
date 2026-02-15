@@ -28,6 +28,15 @@ C. Model Training Details
 
 ![Alt Text](https://github.com/juana2003/Plant-Species-Image-Classification/blob/dc8648829c45f95ad54643c8f2a3a2453a4b0d08/Training%20Model%20.jpg)
 
+I chose 50 epochs to ensure that the model has enough opportunities to review and learn the patterns in the dataset without overfitting. 
+This number provides a balance between sufficient learning and efficient training time.
+
+The batch size of 16 was selected to balance training speed and accuracy. A moderate batch size allows the model to process a reasonable number of images at a time,
+ensuring stable updates to the model weights while keeping the training process efficient.
+
+The learning rate of 0.001 was chosen because it provides a stable and gradual adjustment to the model’s parameters. This prevents large, 
+unstable updates that could reduce accuracy while allowing the model to converge effectively during training.
+
 D. Model Evaluation
 
 ![Alt Text](https://github.com/juana2003/Plant-Species-Image-Classification/blob/e90648a81bf41ba1ef4eeed4f43ded741fb7a890/Under%20The%20hood.jpg)
@@ -74,3 +83,13 @@ TEST 9
 TEST 10
 
 ![TEST 10](https://github.com/juana2003/Plant-Species-Image-Classification/blob/df17e45506e9a6d85c948c8ee0f86c5dd4c5a6a2/Preview%20Test%2010.jpg)
+
+
+
+Reflection Questions:
+
+1. How did the number of images per class affect your model’s accuracy? More images per class improved the model’s accuracy because it had more examples to learn from. Classes with fewer images were harder for the model to predict correctly.
+2. Which plant species were most commonly misclassified and why? The desert milkweed plant was most commonly misclassified because it has a similar shape to other plants, causing its percentage to be distributed among other species that look alike.
+3. How did changing the epochs, batch size, or learning rate affect the training results? Using 50 epochs, a batch size of 16, and a learning rate of 0.001 provided stable learning and balanced accuracy.
+4. What challenges did you encounter during dataset collection and labeling? Even though I uploaded 250 images per class, not all of them were included in the training. About 1–10 images per class were missing and were not captured by the system.
+5. If you were to improve your model, what specific changes would you make and why? I would add more images and apply data augmentation to make the model more robust. I would also fine-tune the epochs or learning rate to improve overall accuracy.
