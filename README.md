@@ -48,8 +48,13 @@ TEST 2
 ![TEST 4](https://github.com/juana2003/Plant-Species-Image-Classification/blob/df17e45506e9a6d85c948c8ee0f86c5dd4c5a6a2/Preview%20Test%204.jpg)
 
 ![TEST 5](https://github.com/juana2003/Plant-Species-Image-Classification/blob/df17e45506e9a6d85c948c8ee0f86c5dd4c5a6a2/Preview%20Test%205.jpg)
+
 ![TEST 6](https://github.com/juana2003/Plant-Species-Image-Classification/blob/df17e45506e9a6d85c948c8ee0f86c5dd4c5a6a2/Preview%20Test%206.jpg)
+
 ![TEST 7](https://github.com/juana2003/Plant-Species-Image-Classification/blob/df17e45506e9a6d85c948c8ee0f86c5dd4c5a6a2/Preview%20test%207.jpg)
+
 ![TEST 8](https://github.com/juana2003/Plant-Species-Image-Classification/blob/df17e45506e9a6d85c948c8ee0f86c5dd4c5a6a2/Preview%20Test%208.jpg)
+
 ![TEST 9](https://github.com/juana2003/Plant-Species-Image-Classification/blob/df17e45506e9a6d85c948c8ee0f86c5dd4c5a6a2/Preview%20Test%209.jpg)
+
 ![TEST 10](https://github.com/juana2003/Plant-Species-Image-Classification/blob/df17e45506e9a6d85c948c8ee0f86c5dd4c5a6a2/Preview%20Test%2010.jpg)
