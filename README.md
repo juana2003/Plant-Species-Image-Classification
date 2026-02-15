@@ -26,7 +26,7 @@ loss and protect against herbivores. Cacti can vary widely in shape, size, and f
 
 C. Model Training Details
 
-Alt Text](https://github.com/juana2003/Plant-Species-Image-Classification/blob/dc8648829c45f95ad54643c8f2a3a2453a4b0d08/Training%20Model%20.jpg)
+![Alt Text](https://github.com/juana2003/Plant-Species-Image-Classification/blob/dc8648829c45f95ad54643c8f2a3a2453a4b0d08/Training%20Model%20.jpg)
 
 
 
