@@ -1,0 +1,20 @@
+0 Agave
+1 Aloevera
+2 Cactus
+3 Cheesebush
+4 Date Palm
+5 Desert Lavender
+6 Desert Milkweed
+7 Desert Rose
+8 Elephant Bush
+9 Elephant Tree
+10 Ephedra/Mormon Tea
+11 Ice Plant
+12 Joshua Tree
+13 Living Stone
+14 Misquite
+15 Ocotillo
+16 Palo verde
+17 Rabbitbrush
+18 Snake Plant
+19 Soap tree Yucca
