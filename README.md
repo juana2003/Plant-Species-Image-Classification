@@ -30,7 +30,7 @@ C. Model Training Details
 
 D. Model Evaluation
 
-![Alt Text]()
+![Alt Text](https://github.com/juana2003/Plant-Species-Image-Classification/blob/e90648a81bf41ba1ef4eeed4f43ded741fb7a890/Under%20The%20hood.jpg)
 
 
 ![Alt Text]()
