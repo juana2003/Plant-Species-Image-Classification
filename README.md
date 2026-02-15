@@ -41,7 +41,7 @@ TEST 1
 
 TEST 2
 
-![Alt Text]()
+![Alt Text](https://github.com/juana2003/Plant-Species-Image-Classification/blob/0c60bfd3d8a2af958fd00ad201c199ba980c0e6f/Preview%20Test%202.jpg)
 
 
 
